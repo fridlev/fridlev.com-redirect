@@ -1,4 +1,6 @@
-  
+---
+permalink: index.html
+---  
 <!doctype html>
 <html>
 
